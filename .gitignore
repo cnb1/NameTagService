@@ -13,7 +13,7 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+#.idea
 *.iws
 *.iml
 *.ipr
@@ -29,7 +29,7 @@ target/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
+#.vscode/
 
 ### Mac ###
 .DS_Store
