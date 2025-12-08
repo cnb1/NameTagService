@@ -8,6 +8,6 @@ public class NameTagController {
 
 	@GetMapping("/getVersion")
 	public String getVersion() {
-		return "Hello this is the main branch";
+		return "Hello this is the release/1.0.0 branch";
 	}
 }
