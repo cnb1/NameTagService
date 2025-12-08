@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class NameTagController {
 
-	@GetMapping("/hello")
-	public String hello() {
-		return "Hello, World!";
+	@GetMapping("/getVersion")
+	public String getVersion() {
+		return "Hello this is the main branch";
 	}
 }
