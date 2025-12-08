@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.nametag</groupId>
     <artifactId>nametagservice</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.1.0-SNAPSHOT</version>
     <name>nametagservice</name>
     <description>Demo project for Spring Boot</description>
     <properties>
