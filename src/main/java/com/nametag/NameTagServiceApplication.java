@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NameTagServiceApplication {
 
 	public static void main(String[] args) {
-		findAndSetAvailablePort(8080);
+//		findAndSetAvailablePort(8080);
 		SpringApplication.run(NameTagServiceApplication.class, args);
 	}
 
